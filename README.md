@@ -25,7 +25,7 @@
     - deploy to Azure
     - `curl https://nest-azure-function.azurewebsites.net/api/contact`
   
-- Article by the NestJS core team: https://trilon.io/blog/deploy-nestjs-azure-functions
+- Full tutorial: https://trilon.io/blog/deploy-nestjs-azure-functions
 - Learn more: https://nitr.ooo
   
 ## Roadmap
