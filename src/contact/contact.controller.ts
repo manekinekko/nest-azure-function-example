@@ -5,6 +5,6 @@ import { Controller, Get } from '@nestjs/common';
       
       @Get('contact')
       getContact(): string {
-        return 'Hello Contact';
+        return 'Hello from NestJS';
     }
   }
